@@ -1,0 +1,7 @@
+streamlit==1.28.1
+pandas==2.0.3
+plotly==5.17.0
+psycopg2-binary==2.9.9
+pillow==10.0.1
+reportlab==4.0.7
+python-dotenv==1.0.0
